@@ -1,0 +1,2 @@
+j:\PDMS_Master\AVEVAMISC\scripts12.0\pdms12.6.bat AAC SYSTEM/XXXXXX /ALLDB ADMIN
+exit
